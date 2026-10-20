@@ -1,0 +1,6 @@
+fid = int(input("Farmer ID: "))
+litres = float(input("Litres: "))
+fat = float(input("Fat: "))
+snf = float(input("SNF: "))
+shift = input("Shift: ")
+print(fid, litres, fat, snf, shift)
